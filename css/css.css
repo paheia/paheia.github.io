@@ -1,0 +1,388 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.da {
+    width: 100%;
+    background: blue;
+}
+
+.da img {
+    object-fit: cover;
+    object-position: center;
+}
+
+.da .ys1 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys1 p {
+    text-align: right;
+}
+
+.da .xilie{
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.da .xl{
+    font-size: 9px;
+    margin-bottom: 20px;
+}
+
+.da .ys1 .xilie,.ys1 .xl {
+    margin-right: 20px;
+}
+.da .lyml {
+    font-size: 8px;
+}
+
+.da .ys1 .tu {
+    width: 75%;
+    height: 37%;
+    margin: 10px auto;
+}
+
+.da .ys1 .tu img {
+    width: 100%;
+    height: 93%;
+}
+
+.da .ys2 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys2 p {
+    text-align: left;
+}
+
+.da .ys2 .ku {
+    width: 85%;
+    height: 75%;
+    margin: 0 auto;
+}
+
+.da .ys2 .ci {
+    font-size: 9px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.da .ys2 .tu1 {
+    width: 100%;
+    height: 60%;
+    float: left;
+}
+
+.da .ys2 .tu2 {
+    width: 49.5%;
+    height: 40%;
+    float: left;
+}
+
+.da .ys2 .tu3 {
+    width: 49.5%;
+    height: 40%;
+    float: right;
+}
+
+.da .ys2 .tu1 img {
+    width: 100%;
+    height: 94%;
+}
+
+.da .ys2 .tu2 img {
+    width: 100%;
+    height: 94%;
+}
+
+.da .ys2 .tu3 img {
+    width: 100%;
+    height: 94%;
+}
+
+.da .ys2 .ku p {
+    margin-left: 5px;
+}
+
+.da .ys2 .xilie,.ys2 .xl {
+    margin-left: 22px;
+}
+
+.da .ys2 .ku img {
+    object-fit: cover;
+    object-position: center;
+}
+
+.da .ys3 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys3 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys3 p {
+    text-align: left;
+}
+
+.da .ys3 .ku {
+    width: 85%;
+    height: 75%;
+    margin: 0 auto;
+}
+
+.da .ys3 .tu1 {
+    width: 100%;
+    height: 60%;
+    float: left;
+}
+
+.da .ys3 .tu2 {
+    width: 38.5%;
+    height: 40%;
+    float: left;
+}
+
+.da .ys3 .tu3 {
+    width: 60.5%;
+    height: 40%;
+    float: right;
+}
+
+.da .ys3 .tu1 img {
+    width: 100%;
+    height: 94%;
+}
+
+.da .ys3 .tu2 img {
+    width: 100%;
+    height: 94%;
+}
+
+.da .ys3 .tu3 img {
+    width: 100%;
+    height: 94%;
+}
+
+.da .ys3 .ku p {
+    margin-left: 5px;
+}
+
+.da .ys3 .xilie,.ys3 .xl {
+    margin-left: 22px;
+}
+
+.da .ys3 .ku img {
+    object-fit: cover;
+    object-position: center;
+}
+
+.da .ys4 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys4 p {
+    text-align: right;
+}
+
+.da  .ys4 .xilie,.ys4 .xl {
+    margin-right: 35px;
+}
+
+.da .ys4 .tu1 {
+    width: 100%;
+    height: 78%;
+}
+
+.da .ys4 .tu1 img {
+    width: 100%;
+    height: 94%;
+}
+
+.da .ys4 .tu1 p {
+    margin-right: 35px;
+}
+
+.da .ys5 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys5 p {
+    text-align: right;
+}
+
+.da .ys5 .xilie,.ys5 .xl {
+    margin-right: 35px;
+}
+
+.da .ys5 .ku {
+    margin: 0 auto;
+    width: 85%;
+    height: 80%;
+}
+
+.da .ys5 .ku .tu1 {
+    float: left;
+    width: 100%;
+    height: 33%;
+}
+
+.da .ys5 .ku .tu2 {
+    float: left;
+    width: 49.5%;
+    height: 33%;
+}
+
+.da .ys5 .ku .tu3 {
+    float: right;
+    width: 49.5%;
+    height: 33%;
+}
+
+.da .ys5 .ku .tu4 {
+    float: left;
+    width: 38.5%;
+    height: 33%;
+}
+
+.da .ys5 .ku .tu5 {
+    float: right;
+    width: 60.5%;
+    height: 33%;
+}
+
+.da .ys5 .ku img {
+    width: 100%;
+    height: 90%;
+}
+
+.da .ys6 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys6 p {
+    text-align: right;
+}
+
+.da .ys6 .xilie,.ys6 .xl {
+    margin-right: 35px;
+}
+
+.da .ys6 .ku {
+    margin: 0 auto;
+    width: 85%;
+    height: 80%;
+}
+
+.da .ys6 .ku .tu1 {
+    width: 38.5%;
+    height: 50%;
+    float: left;
+}
+
+.da .ys6 .ku .tu2 {
+    width: 60.5%;
+    height: 50%;
+    float: right;
+}
+
+.da .ys6 .ku .tu3 {
+    width: 60.5%;
+    height: 50%;
+    float: left;
+}
+
+.da .ys6 .ku .tu4 {
+    width: 38.5%;
+    height: 50%;
+    float: right;
+}
+
+.da .ys6 .ku img {
+    width: 100%;
+    height: 93%;
+}
+
+.da .ys7 {
+    width: 90%;
+    height: 570px;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.da .ys7 p {
+    text-align: right;
+}
+
+.da .ys7 .xilie,.ys7 .xl {
+    margin-right: 35px;
+}
+
+.da .ys7 .ku {
+    margin: 0 auto;
+    width: 85%;
+    height: 80%;
+}
+
+.da .ys7 .ku .tu1 {
+    width: 49.5%;
+    height: 40%;
+    float: left;
+}
+
+.da .ys7 .ku .tu2 {
+    width: 49.5%;
+    height: 40%;
+    float: right;
+}
+
+.da .ys7 .ku .tu3 {
+    width: 75%;
+    height: 60%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.da .ys7 .ku img {
+    width: 100%;
+    height: 92%;
+}
